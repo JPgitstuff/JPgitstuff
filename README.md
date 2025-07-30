@@ -54,3 +54,15 @@ I love digging deep into systems design, where data, user needs, and code all co
 🚀 **Open to:**
 - Internship or vacation work (Software Dev / Data Science / IoT)
 - Collaborations on open-source or community-driven projects
+
+
+
+
+
+**My github stats:**
+
+![Jan-Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPgitstuff&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPgitstuff&layout=compact&theme=radical)
+
+

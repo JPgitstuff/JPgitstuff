@@ -18,3 +18,4 @@ Other: Bootstrap 5 | EJS | Git | VS Code | Arduino | Raspberry Pi
 🧠 **How I Think**:
 
 I love digging deep into systems design, where data, user needs, and code all connect. Whether it’s optimizing a database query or tuning hyperparameters, I bring a blend of precision, practicality, and enough energy to keep it fun and entertaining for myself and potential users.
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)

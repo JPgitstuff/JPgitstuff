@@ -18,4 +18,13 @@ Other: Bootstrap 5 | EJS | Git | VS Code | Arduino | Raspberry Pi
 🧠 **How I Think**:
 
 I love digging deep into systems design, where data, user needs, and code all connect. Whether it’s optimizing a database query or tuning hyperparameters, I bring a blend of precision, practicality, and enough energy to keep it fun and entertaining for myself and potential users.
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+## 🖥️ **Languages I Use**:
+
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+

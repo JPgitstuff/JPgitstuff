@@ -49,7 +49,6 @@ I build not just code that runs, but **systems that work and make life easier** 
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://cassandra.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cassandra" alt="ScyllaDB / Cassandra" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/></a>
   <a href="https://sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40"/></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
@@ -87,7 +86,6 @@ I build not just code that runs, but **systems that work and make life easier** 
 ---
 
 ## 🚀 Open To
-- Internship or vacation work (Software Development / Data Science / IoT)  
 - Collaborations on open-source or community-driven projects  
 
 ---

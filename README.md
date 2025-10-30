@@ -5,7 +5,8 @@
 I’m a third-year student at **Belgium Campus ITversity**, passionate about building tools that **solve real-world problems** efficiently and effectively.  
 I focus on **software engineering, IoT systems, data pipelines, and scalable backend solutions**, always aiming to deliver projects with **impact, clarity, and precision**.  
 
-I build not just code that runs, but **systems that work and make life easier** for users.
+I build not just code that runs, but **systems that work and make life easier** for users. </br>
+
 
 ---
 
@@ -90,6 +91,12 @@ I build not just code that runs, but **systems that work and make life easier** 
 
 ---
 
+
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JPgitstuff&show_icons=true&locale=en&layout=compact&theme=dark" alt="JPgitstuff" /></p>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JPgitstuff&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=MLG382,TestforappDeployment" alt="JPgitstuff" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JPgitstuff&show_icons=true&locale=en&theme=dark" alt="JPgitstuff" /></p>
+</div>
+
+
+
